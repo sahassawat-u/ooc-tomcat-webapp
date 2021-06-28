@@ -4,7 +4,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 import java.util.Objects;
 
-public class SecurityService {
+public class  SecurityService {
 
     private UserService userService;
 
