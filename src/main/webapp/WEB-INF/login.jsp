@@ -3,7 +3,7 @@
 <title>Home Page</title>
 <body>
 <p>
-    ${error} hii
+    ${error}
 </p>
 <p>
 <form action="/login" method="post">
