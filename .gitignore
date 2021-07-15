@@ -1,5 +1,6 @@
 *.iml
 tomcat.8082
+.DS_Store
 target
 .idea
 .classpath
